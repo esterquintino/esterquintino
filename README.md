@@ -1,5 +1,14 @@
-### Hi there 👋
+### Bem-vindo ao meu perfil 👋
 
+Esta rede é nova e ainda estou commitando meus trabalhos. Sinta-se livre para comentar e testar.
+
+Atualmente estou trabalhando no projeto Finautica: https://github.com/esterquintino/Finautica
+
+Outros trabalhos:
+
+-
+-
+-
 <!--
 **esterquintino/esterquintino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
