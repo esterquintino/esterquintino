@@ -2,13 +2,9 @@
 
 Esta rede é nova e ainda estou commitando meus trabalhos. Sinta-se livre para comentar e testar.
 
-Atualmente estou trabalhando no projeto Finautica: https://github.com/esterquintino/Finautica
+- 🌱 Atualmente estou estudando o livro "Entendendo Algoritmos" do Aditya Bhargava
 
-Outros trabalhos:
 
--
--
--
 <!--
 **esterquintino/esterquintino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
