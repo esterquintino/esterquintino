@@ -1,8 +1,8 @@
 ### Bem-vindo, me chamo Ester 👋
 
 Esta rede é nova e ainda estou commitando meus trabalhos. Sinta-se livre para comentar e testar.
-- 💻 Tecnica em Informática para a Internet pelo IFSP - Campus Guarulhos
-- 🎓 Graduanda de Análise e Desenvolvimento de Sistemas pela FIAP
+- 💻 Técnica em Informática para a Internet pelo IFSP - Campus Guarulhos
+- 🎓 Graduada em Análise e Desenvolvimento de Sistemas pela FIAP
 - 🌱 Atualmente estou estudando o livro "Entendendo Algoritmos" do Aditya Bhargava
 
 ---
